@@ -19,13 +19,12 @@ The work here forecasts the sales of the various Rossmann stores across Europe f
 <p>This project contains two executable file, a technical document and a presentation as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
-  <li><b>Rossmann_Sales_Prediction_Vithika_Karan.ipynb</b> - Google Collab notebook containing data summary, exploration, visualisations and modeling.</li>
-  <li><b>Rossmann_Sales_Prediction_Part_2_Vithika_Karan_ipynb.ipynb</b> - Google Collab notebook containg model hyperparameter tuning, model performance, evaluation and conclusion.</li>
+  <li><b>ML Retail Sales Prediction.ipynb</b> - Google Collab notebook containing data summary, exploration, visualisations and modeling.</li>
+  
 </ul>
 
 <h4>Documentation:</h4>
 <ul>
-  <li><b>Technical Documentation.pdf</b> - Includes the complete documentation about the project.</li>
   <li><b>Project Presentation.pdf</b> - Presentation of the same.</li>
 </ul>
 
