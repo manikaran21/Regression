@@ -16,7 +16,7 @@ The work here forecasts the sales of the various Rossmann stores across Europe f
 
 <h2> :floppy_disk: Project Files Description</h2>
 
-<p>This project contains two executable file, a technical document and a presentation as follows:</p>
+<p>This project contains one executable file and a presentation as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
   <li><b>ML Retail Sales Prediction.ipynb</b> - Google Collab notebook containing data summary, exploration, visualisations and modeling.</li>
