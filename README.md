@@ -25,7 +25,7 @@ The work here forecasts the sales of the various Rossmann stores across Europe f
 
 <h4>Documentation:</h4>
 <ul>
-  <li><b>Project Presentation.pdf</b> - Presentation of the same.</li>
+  <li><b>Retail Sales Predicition.pptx</b> - Presentation of the same.</li>
 </ul>
 
 <h4>Source Directory:</h4>
